@@ -1,0 +1,23 @@
+{
+  "name": "node-todo",
+  "version": "0.0.1",
+  "description": "a commander todo application(Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurWangCN/node-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurWangCN/node-todo/issues"
+  },
+  "homepage": "https://github.com/ArthurWangCN/node-todo#readme",
+  "dependencies": {
+    "commander": "^7.1.0"
+  }
+}
